@@ -1,0 +1,1 @@
+CREATE SCHEMA til_portfolio_projects.th_lego_summer_sql
